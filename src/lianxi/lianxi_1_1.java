@@ -29,7 +29,7 @@ public class lianxi_1_1 {
         } else if (seat == 1) {
             ticket = (int) (ticket * v1);
         } else {
-            System.out.println("没有这个舱位");
+            System.out.println("没这个舱位");
         }
         return ticket;
     }
